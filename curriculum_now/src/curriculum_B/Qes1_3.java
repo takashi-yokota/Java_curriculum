@@ -1,5 +1,6 @@
 package curriculum_B;
 
+//テスト
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.regex.Matcher;
